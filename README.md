@@ -33,15 +33,11 @@
 ## 🧰 Languages & Tools  
 
 <!-- Use skill-icons or shields badges for a cleaner look — example below: -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,android,git,gradle,sqlite,firebase,github&theme=dark" alt="tech stack" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,android,git,gradle,firebase,github,jetpack,sqlite&theme=dark)](https://skillicons.dev)
 
-## 🔗 Others  
-
-<p align="center">
-  <img src="./assets/chess.gif" alt="Chess GIF" width="150" />
-</p>
+| Coding & Fun | Chess & Fun |
+| --- | --- |
+| <img src="./assets/programmer.gif" width="500" height="500" alt="programmer" /> | <img src="./assets/chess.gif" width="375" height="375" alt="chess" /> |
 
 ---
 
